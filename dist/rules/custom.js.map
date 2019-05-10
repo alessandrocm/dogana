@@ -1,0 +1,1 @@
+{"version":3,"file":"custom.js","sourceRoot":"","sources":["../../src/rules/custom.ts"],"names":[],"mappings":";;AAEA,SAAwB,MAAM,CAAC,OAAsB;;IACnD;QACE,GAAC,OAAO,CAAC,IAAI,IAAG;YACd,OAAO,EAAE,OAAO,CAAC,OAAO;YACxB,OAAO,EAAE,OAAO,CAAC,OAAO;SACzB;WACD;AACJ,CAAC;AAPD,yBAOC"}

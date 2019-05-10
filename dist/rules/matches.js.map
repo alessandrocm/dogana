@@ -1,0 +1,1 @@
+{"version":3,"file":"matches.js","sourceRoot":"","sources":["../../src/rules/matches.ts"],"names":[],"mappings":";;AAEA,SAAwB,OAAO,CAAC,KAAa,EAAE,OAAkC;IAAlC,wBAAA,EAAA,kCAAkC;IAC/E,OAAO;QACL,OAAO,EAAE;YACP,OAAO,SAAA;YACP,OAAO,EAAE,KAAK;SACf;KACF,CAAA;AACH,CAAC;AAPD,0BAOC"}

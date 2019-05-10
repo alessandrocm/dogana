@@ -1,0 +1,1 @@
+{"version":3,"file":"either.js","sourceRoot":"","sources":["../../src/rules/either.ts"],"names":[],"mappings":";;AAEA,SAAwB,MAAM,CAAC,OAAe;IAAE,eAAgB;SAAhB,UAAgB,EAAhB,qBAAgB,EAAhB,IAAgB;QAAhB,8BAAgB;;IAC9D,OAAO;QACL,MAAM,EAAE;YACN,OAAO,SAAA;YACP,OAAO,EAAE,KAAK;SACf;KACF,CAAC;AACJ,CAAC;AAPD,yBAOC"}
