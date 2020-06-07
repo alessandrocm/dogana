@@ -3,19 +3,13 @@ export interface ValidValue {
   valid: boolean;
 }
 
-export interface ValidationErrors {
+export interface CheckErrors {
   [key: string]: any;
   errors: Array<string>
 }
 
 export interface Results {
-  [key: string]: ValidationErrors
-}
-
-export interface Validation {
-  valid: ValidValue;
-  message?: string;
-  results?: Results;
+  [key: string]: CheckErrors
 }
 
 export interface Validators {

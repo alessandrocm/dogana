@@ -7,3 +7,7 @@ export {
   isNull,
   isNil
 }
+
+export function isNilOrEmpty(target: object) {
+  return isNil(target) || isEmpty(target);
+}
