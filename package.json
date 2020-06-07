@@ -24,7 +24,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "4.17.11",
+    "lodash": "4.17.13",
     "lodash.isempty": "4.4.0",
     "lodash.isnil": "4.0.0",
     "lodash.isnull": "3.0.0",
